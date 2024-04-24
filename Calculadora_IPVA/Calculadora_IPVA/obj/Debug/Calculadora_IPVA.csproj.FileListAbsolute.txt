@@ -1,0 +1,8 @@
+C:\Users\caued\source\repos\Calculadora_IPVA\Calculadora_IPVA\bin\Debug\Calculadora_IPVA.exe.config
+C:\Users\caued\source\repos\Calculadora_IPVA\Calculadora_IPVA\bin\Debug\Calculadora_IPVA.exe
+C:\Users\caued\source\repos\Calculadora_IPVA\Calculadora_IPVA\bin\Debug\Calculadora_IPVA.pdb
+C:\Users\caued\source\repos\Calculadora_IPVA\Calculadora_IPVA\obj\Debug\Calculadora_IPVA.csproj.AssemblyReference.cache
+C:\Users\caued\source\repos\Calculadora_IPVA\Calculadora_IPVA\obj\Debug\Calculadora_IPVA.csproj.SuggestedBindingRedirects.cache
+C:\Users\caued\source\repos\Calculadora_IPVA\Calculadora_IPVA\obj\Debug\Calculadora_IPVA.csproj.CoreCompileInputs.cache
+C:\Users\caued\source\repos\Calculadora_IPVA\Calculadora_IPVA\obj\Debug\Calculadora_IPVA.exe
+C:\Users\caued\source\repos\Calculadora_IPVA\Calculadora_IPVA\obj\Debug\Calculadora_IPVA.pdb
